@@ -1,0 +1,6 @@
+{
+  "name": "AI HealthGuide",
+  "description": "AI-Powered Healthcare Information Assistant providing educational health insights, symptom organization, emergency guidance, and medical safety resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
